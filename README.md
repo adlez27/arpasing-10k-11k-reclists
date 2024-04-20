@@ -1,5 +1,5 @@
 # Experimental ARPAsing Recording Scripts
-Sometime in 2018, Kanru Hua released PDF files for two additional experimental ARPAsing reclists. I updated the 0.1.0 and 0.2.0 reclists to have 5 digit numbers in order to be compatible, but never got around to transcribing these lists. Volunteers are welcome to make pull requests with txt file trancriptions.
+Sometime in 2018, Kanru Hua released PDF files for two additional experimental ARPAsing reclists. The publicly distributed 0.1.0 and 0.2.0 reclists were modified to have 5 digit numbers in order to be compatible. Thanks to [@Slidingwall](https://github.com/Slidingwall) the additional reclists have been transcribed, and will be prepared for use by general UTAU users.
 
 ## ARPAsing 10k
 Experimental recording script (No. 10000 - 10199)
