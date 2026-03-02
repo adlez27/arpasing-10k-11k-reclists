@@ -5,8 +5,5 @@ uw_sh
 t_aw
 s_g
 -_l
-ih_-
 ih_zh
 zh_-
-ih_w
-ih_y
